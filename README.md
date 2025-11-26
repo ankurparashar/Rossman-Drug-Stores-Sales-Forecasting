@@ -12,7 +12,7 @@ Rossmann is a European drug distributor which operates over 3,000 drug stores ac
 - Analyze impact of promotional variables (Promo, Promo2) on sales Report model accuracy using MAPE (Mean Absolute Percentage Error)
 
 ## Contents
-- **[Source Code]**(A)
+- **[Source Code]**(https://github.com/ankurparashar/Rossman-Drug-Stores-Sales-Forecasting/blob/main/Dataset.zip)
 - **[Documentation]**(B)
 - **[Sample Data]**(C)
 
