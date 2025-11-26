@@ -17,9 +17,12 @@ Rossmann is a European drug distributor which operates over 3,000 drug stores ac
 - **[Sample Data]**(C)
 
 ## 🛠️ Tech Stack
-- **Language**: Python numpy, pandas, matplotlib, seaborn, statsmodels, sklearn
-- **Models**: ARIMA, SARIMAX, VAR, VECM, coint_johansen, adfuller
-- **Tools used**: Collab Notebook
+- **Language**: Python 3.x
+- **Data Processing** Numpy, Pandas
+- **Visualization** matplotlib, seaborn
+- **Statistical Modeling** Statsmodels (ARIMA, SARIMAX, VAR, VECM)
+- **Machine Learning** Scikit-learn (StandardScaler, MinMaxScaler)
+- **Environment**: Collab Notebook
 
 ## Installation and Run
 - Clone Repo: git clone [https://github.com/ankurparashar/Rossman-Drug-Stores-Sales-Forecasting](https://github.com/ankurparashar/Rossman-Drug-Stores-Sales-Forecasting)]
