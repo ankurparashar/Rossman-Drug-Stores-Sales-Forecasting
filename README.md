@@ -9,9 +9,9 @@ Rossmann is a European drug distributor which operates over 3,000 drug stores ac
 - Prepare models specifically for 9 key stores: 1, 3, 8, 9, 13, 25, 29, 31, and 46
 
 ## Contents
-- **[Source Code]**(https://github.com/ankurparashar/Rossman-Drug-Stores-Sales-Forecasting/blob/main/Dataset.zip)
-- **[Documentation]**(B)
-- **[Sample Data]**(C)
+- **[Source Code]**(A)
+- **[Documentation]**(https://github.com/ankurparashar/Rossman-Drug-Stores-Sales-Forecasting/blob/main/Rossmann_Sales_Forecasting_Report.pdf)
+- **[Sample Data]**(https://github.com/ankurparashar/Rossman-Drug-Stores-Sales-Forecasting/blob/main/Dataset.zip)
 
 ## 🛠️ Tech Stack
 - **Language**: Python 3.x
