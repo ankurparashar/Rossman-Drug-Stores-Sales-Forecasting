@@ -24,7 +24,7 @@ Rossmann is a European drug distributor which operates over 3,000 drug stores ac
 ## Installation and Run
 - Clone Repo: git clone [https://github.com/ankurparashar/Rossman-Drug-Stores-Sales-Forecasting](https://github.com/ankurparashar/Rossman-Drug-Stores-Sales-Forecasting)]
 - Navigate to the project directory: Rossman-Drug-Stores-Sales-Forecasting
-- Run the main using Jupyter or Collab: "Capstone_SalesForecasting_Ankur_Parashar.ipynb"
+- Run the main using Jupyter or Collab: "Rossman_SalesForecasting_Ankur_Parashar.ipynb"
 
 ## 💬 Contact
 For any queries or feedback, feel free to reach out:
