@@ -7,9 +7,6 @@ Rossmann is a European drug distributor which operates over 3,000 drug stores ac
 # Objectives
 - Build a forecasting model to forecast the daily sales for the next six weeks (42 days)
 - Prepare models specifically for 9 key stores: 1, 3, 8, 9, 13, 25, 29, 31, and 46
-- Determine if sales data is stationary or non-stationary
-- Test for cointegration between Sales and Customers using Johansen test
-- Analyze impact of promotional variables (Promo, Promo2) on sales Report model accuracy using MAPE (Mean Absolute Percentage Error)
 
 ## Contents
 - **[Source Code]**(https://github.com/ankurparashar/Rossman-Drug-Stores-Sales-Forecasting/blob/main/Dataset.zip)
